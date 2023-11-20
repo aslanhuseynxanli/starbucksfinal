@@ -1,0 +1,14 @@
+ul a:hover{color: #01754A;}
+ul a.active{ 
+ border-bottom: 5px solid #01754A;
+ transition: .4s;
+ 
+}
+
+.icon:hover{color:#01754A}
+.scrollbar-hide::webkit-scrollbar{
+    display: none;
+  }
+
+
+/* .mh-y a.active{border-bottom: 1px solid black; } */

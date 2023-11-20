@@ -1,0 +1,52 @@
+ {
+    "homeDt": [
+      {
+        "id": 1,
+        "color": "#F6BFD9",
+        "img": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-83747.jpg",
+        "title": "For all they do",
+        "desc": "Show your gratitude for the teachers and nurses in your life with a thoughtful Starbucks Card.",
+        "btn": "Send an eGift"
+      },
+      {
+        "id": 2,
+        "color": "#D4E9E2",
+        "img": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-83498.jpg",
+        "title": "Spring in your step, Rewards in your cup",
+        "desc": "Shake up your usual and start earning Rewards —join today!*",
+        "btn": "Join now"
+      },
+      {
+        "id": 3,
+        "color": "#FFC519",
+        "img": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-83414.jpg",
+        "title": "Nitro your way",
+        "desc": "Try the new Cinnamon Caramel Cream Nitro Cold Brew or go for the Vanilla Sweet Cream Nitro Cold Brew.",
+        "btn": "Order now"
+      },
+      {
+        "id": 4,
+        "color": "#FFF4D4",
+        "img": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-83417.png",
+        "title": "Carefree and cool",
+        "desc": "Our Pink Drink Starbucks Refreshers® beverage with real strawberry pieces and coconutmilk is a spring-inspired delight.",
+        "btn": "Order now"
+      },
+      {
+        "id": 5,
+        "color": "#A0C290",
+        "img": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-83749.jpg",
+        "title": "Protein perfection",
+        "desc": "Pick up a hearty Double-Smoked Bacon, Cheddar & Egg Sandwich for breakfast or lunch.",
+        "btn": "Order now"
+      },
+      {
+        "id": 6,
+        "color": "#F0F0EA",
+        "img": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-83750.jpg",
+        "title": "May is Military Appreciation Month",
+        "desc": "For each Military eGift sold in May, we’ll donate $5 to support our military community.**",
+        "btn": "Send an eGift"
+      }
+    ]
+  }
